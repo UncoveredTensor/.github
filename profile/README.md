@@ -9,19 +9,15 @@ At UncoveredTensor, we value transparency, inclusivity, and the principles of op
 Join us on this exciting journey as we strive to make security accessible to everyone. Together, we can create a more resilient and secure future.
 
 ## Contribute to the work
-As an organization specializing in AI-powered cybersecurity solutions, UncoveredTensor thrives on active participation and diverse perspectives from our community members. Leveraging the power of open-source development, every contribution, no matter how small, is crucial to our mission of making AI-enhanced security accessible to everyone.
+As an AI-centric cybersecurity organization, UncoveredTensor values every contribution to our mission of making security accessible. Your involvement enhances our open-source projects.
 
-One significant way you can contribute to our work is by creating issues on our open-source projects. Issues are a fundamental aspect of project management in open-source development. They serve as a means to highlight bugs, propose new features, discuss potential improvements, and share general feedback about the project.
+Contribute by creating issues for bugs, feature proposals, or improvements. Here's how:
 
-Here's how you can contribute:
+Identify 🔍: Notice a bug or propose an improvement.
 
-Identify 🔍: Spot a bug or conceive an improvement. Your journey starts with recognizing a potential contribution.
+Create an Issue ❗: Visit our GitHub page, select the right project, and open a new issue. Be clear about your concern or idea.
 
-Create an Issue ❗: Navigate to our GitHub page, choose the relevant project, and open a new issue. Detail your problem or proposal for others to understand.
-
-Discuss 💬: After posting, use the issue as a forum to share insights, suggest solutions, and contribute to the project's progress.
-
-By creating issues, you're directly contributing to the growth and development of our tools, helping us identify areas for improvement and ways to make our projects even better. Your insights and expertise are invaluable to us, and we look forward to seeing how you help shape the future of UncoveredTensor.
+Discuss 💬: Use the posted issue to engage in discussions and suggest solutions."
 
 
 ## Join the comunity

@@ -22,3 +22,5 @@ Discuss 💬: Use the posted issue to engage in discussions and suggest solution
 
 ## Join the comunity
 Become part of our mission to secure the digital world by joining our Discord server. There, you can connect with like-minded individuals, share ideas and learn from the collective knowledge and experience of the community.
+
+Discord: **https://discord.gg/nZV3VfE7tx**

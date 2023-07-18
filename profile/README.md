@@ -19,6 +19,9 @@ Create an Issue ❗: Visit our GitHub page, select the right project, and open a
 
 Discuss 💬: Use the posted issue to engage in discussions and suggest solutions."
 
+## Give us feedback!.
+
+Within the developent of multiple projects within uncovered tensor it is necessary what the community needs / wants. For this we would like to receive feedback upon build projects aswell as new ideas that could come to light within this github organisation. Feel free thus for give the organisation feedback aswell as the needs from this repository
 
 ## Join the comunity
 Become part of our mission to secure the digital world by joining our Discord server. There, you can connect with like-minded individuals, share ideas and learn from the collective knowledge and experience of the community.
